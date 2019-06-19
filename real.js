@@ -9,4 +9,5 @@ window.onload = function() {
 
 function doSomethingBadHere() {
     // ¯\_(ツ)_/¯
+    document.body.innerText = 'Hello world!';
 }
